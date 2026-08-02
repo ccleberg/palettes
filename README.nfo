@@ -1,0 +1,18 @@
+┌──────────────────────────────────────────────────────────────┐
+│  P A L E T T E S                           [ KRZ ]   krz.sh  │
+└──────────────────────────────────────────────────────────────┘
+
+WHAT
+  generates 5 random colors in rgb, hex, and cmyk. refresh for a new
+  palette. a theme switcher checks colors against black or white
+  backgrounds.
+
+CONTRIBUTING
+  open issues for features or bugs. fork and send pull requests.
+
+PREVIEW
+  preview.png
+
+┌──────────────────────────────────────────────────────────────┐
+│  krz.sh                                                      │
+└──────────────────────────────────────────────────────────────┘
