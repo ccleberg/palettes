@@ -1,0 +1,12 @@
+#+title: palettes
+
+* what
+generates 5 random colors in rgb, hex, and cmyk. refresh for a new
+palette. a theme switcher checks colors against black or white
+backgrounds.
+
+* contributing
+open issues for features or bugs. fork and send pull requests.
+
+* preview
+- preview.png
